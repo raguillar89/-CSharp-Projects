@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darth\\Documents\\Prog\\source\\repos\\CSharp40\\CSharp40\\Xadrez.csproj": {}
+    "C:\\Users\\Darth\\Documents\\Prog\\Git\\-CSharp-Projects\\Xadrez\\Xadrez\\Xadrez.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darth\\Documents\\Prog\\source\\repos\\CSharp40\\CSharp40\\Xadrez.csproj": {
+    "C:\\Users\\Darth\\Documents\\Prog\\Git\\-CSharp-Projects\\Xadrez\\Xadrez\\Xadrez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darth\\Documents\\Prog\\source\\repos\\CSharp40\\CSharp40\\Xadrez.csproj",
+        "projectUniqueName": "C:\\Users\\Darth\\Documents\\Prog\\Git\\-CSharp-Projects\\Xadrez\\Xadrez\\Xadrez.csproj",
         "projectName": "Xadrez",
-        "projectPath": "C:\\Users\\Darth\\Documents\\Prog\\source\\repos\\CSharp40\\CSharp40\\Xadrez.csproj",
+        "projectPath": "C:\\Users\\Darth\\Documents\\Prog\\Git\\-CSharp-Projects\\Xadrez\\Xadrez\\Xadrez.csproj",
         "packagesPath": "C:\\Users\\Darth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darth\\Documents\\Prog\\source\\repos\\CSharp40\\CSharp40\\obj\\",
+        "outputPath": "C:\\Users\\Darth\\Documents\\Prog\\Git\\-CSharp-Projects\\Xadrez\\Xadrez\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Darth\\AppData\\Roaming\\NuGet\\NuGet.Config",
