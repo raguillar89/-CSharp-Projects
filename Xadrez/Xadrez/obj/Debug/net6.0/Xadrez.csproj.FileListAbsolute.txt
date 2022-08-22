@@ -1,0 +1,15 @@
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\bin\Debug\net6.0\CSharp40.exe
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\bin\Debug\net6.0\CSharp40.deps.json
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\bin\Debug\net6.0\CSharp40.runtimeconfig.json
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\bin\Debug\net6.0\CSharp40.dll
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\bin\Debug\net6.0\CSharp40.pdb
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\obj\Debug\net6.0\CSharp40.csproj.AssemblyReference.cache
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\obj\Debug\net6.0\CSharp40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\obj\Debug\net6.0\CSharp40.AssemblyInfoInputs.cache
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\obj\Debug\net6.0\CSharp40.AssemblyInfo.cs
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\obj\Debug\net6.0\CSharp40.csproj.CoreCompileInputs.cache
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\obj\Debug\net6.0\CSharp40.dll
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\obj\Debug\net6.0\refint\CSharp40.dll
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\obj\Debug\net6.0\CSharp40.pdb
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\obj\Debug\net6.0\CSharp40.genruntimeconfig.cache
+C:\Users\Darth\Documents\Prog\source\repos\CSharp40\CSharp40\obj\Debug\net6.0\ref\CSharp40.dll
